@@ -1,0 +1,553 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$10.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$11.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$2.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$4.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$apply$2.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$6.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$7.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$8.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$9.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$2.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$3.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4$$anonfun$5.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4$$anonfun$apply$4.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$toRDD$1$$anonfun$apply$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$toRDD$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$typecreator1$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyComputeRecord$.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyComputeRecord.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyDataset$.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyDataset.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$$typecreator1$1.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$Record$.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$Record.class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample.class
+binary dependencies:
+12 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Program Files (x86)\Java\jre1.8.0_144\lib\rt.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Program Files (x86)\Java\jre1.8.0_144\lib\rt.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$10
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$11
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$3$$anonfun$4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$3$$anonfun$apply$2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$3$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$6
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$7
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$8
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$9
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$4$$anonfun$5
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$fit$4$$anonfun$apply$4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$toRDD$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$anonfun$toRDD$1$$anonfun$apply$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$$typecreator1$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$ContingencyComputeRecord
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$ContingencyComputeRecord$
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$ContingencyDataset
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com.manualrg.mlutils.ContingencyTable$ContingencyDataset$
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample$
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample$$typecreator1$1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample$Record
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample$Record$
+used names:
+359 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> $conforms
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> $m
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> $m$untyped
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> $typecreator1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> $u
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> &&
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> *
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> +
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ++
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> +=
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> -
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ::
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> <:<
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> <init>
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> <refinement>
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> <repeated>
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ==
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ?0
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> A
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> A1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> AbstractFunction4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Any
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> AnyRef
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Array
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ArrayOps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> B
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> BDM
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> BV
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Boolean
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Builder
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> CanBuildFrom
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> CanSlice2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ClassLoader
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ClassSymbol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ClassTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Coll
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Column
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ContingencyComputeRecord
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ContingencyDataset
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ContingencyTable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> DataFrame
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> DenseMatrix
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> DenseVector
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Double
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Function1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> GenTraversableOnce
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> HashSet
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> IndexOutOfBoundsException
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> IndexedSeq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Int
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Iterable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Iterator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> JavaUniverse
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> K
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> List
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Long
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Map
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> MatchError
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Mirror
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N0Col
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N0Col_exp
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N0col
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N1Col
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N1Col_exp
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> N1col
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> None
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Nothing
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Object
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Ordering
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Predef
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Product
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> RDD
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Range
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Result
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> RichInt
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Row
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ScalaRunTime
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Seq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Serializable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Singleton
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Slice1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Slice2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Some
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> SparkSession
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Statics
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> String
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T0
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> T4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> That
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Tuple2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Tuple3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Tuple4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Type
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> TypeCreator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> TypeSymbol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> TypeTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> U
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Unit
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Universe
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> V
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> Vector
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _$4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _$7
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _6
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _hashCode
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> _toString
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> allDistinctFeatures
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> anyHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> apache
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> apply
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> asInstanceOf
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> asType
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> batch
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> batchSize
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> breeze
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> brzFeatures
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> builder
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> canBuildFrom
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> canSliceCol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> col
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> col_idx
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> col_idx_exp
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> collection
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> com
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> computeContingency
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> contingency
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> contingencyTuples
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> contingency_df
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> countByValue
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> createDataFrame
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> dataset
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> distinct
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> distinctLabels
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> doubleArrayOps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> doubleHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> empty
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> endCol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> eq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> event_idx
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> feature
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> features
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> fill
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> filter
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> finalizeHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> first
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> flatMap
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> foreach
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> functions
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> genericArrayOps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> getClass
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> getClassLoader
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> getContingencyReport
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> getOrCreate
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> groupBy
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> head
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> i
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> idx
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> immutable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> implicits
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> inputCols
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> intArrayOps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> intWrapper
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> isInstanceOf
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> iter
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> j
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> keys
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> label
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> labelCol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> labels
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> level_value
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> level_value_exp
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> linalg
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> manualrg
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> map
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> mapPartitions
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> materializeClassTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> materializeTypeTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> math
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> min
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> mix
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> mlCols
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> mlutils
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> mutable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> nLevels
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ne
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> nonevent_idx
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> numCols
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> numLabels
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> numRows
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> numerics
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> org
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> package
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> pairCounts
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> pairMaps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> rdd
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> refArrayOps
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> reflect
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> results
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> results_row
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> row
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> runtime
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> runtimeMirror
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> scala
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> select
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> size
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> sorted
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> spark
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> sql
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> startCol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> staticClass
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> tail
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toArray
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toMap
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toRDD
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toSeq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toString
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> toTypeConstructor
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> typedProductIterator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> types
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> universe
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> until
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> update
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> x
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> zipWithIndex
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> ||
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> $m
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> $m$untyped
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> $typecreator1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> $u
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> &&
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> <init>
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> <repeated>
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ==
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ?0
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> A
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> AbstractFunction6
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Any
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> AnyRef
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Array
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Boolean
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Builder
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Class
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ClassLoader
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ClassTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyExample
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ContingencyTable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> DataFrame
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Double
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> IndexOutOfBoundsException
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Int
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Internal
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Iterator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> JavaUniverse
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Mirror
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ModuleSymbol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> None
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Nothing
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Object
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Predef
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Product
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Record
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ReificationSupportApi
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ScalaRunTime
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Seq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Serializable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Singleton
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Some
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> SparkConf
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> SparkContext
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> SparkSession
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Statics
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> String
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Symbol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T0
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T5
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> T6
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Tuple6
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Type
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> TypeCreator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> TypeSymbol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> TypeTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> U
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Unit
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> Universe
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> _$7
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> _toString
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> anyHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> apache
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> appName
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> apply
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> asInstanceOf
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> asModule
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> asType
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> builder
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> collection
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> com
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> contingencyReport
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> createDataFrame
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> df
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> doubleHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> eq
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> finalizeHash
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> fit
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> functions
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> getClass
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> getClassLoader
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> getOrCreate
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> id
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> implicits
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> inputCols
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> internal
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> isInstanceOf
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> label
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> labelCol
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> manualrg
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> materializeClassTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> materializeTypeTag
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> mix
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> mlutils
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> moduleClass
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> myContingencyTable
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> org
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> package
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> println
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> reflect
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> reificationSupport
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> runtime
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> runtimeMirror
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> sc
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> scala
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> selectType
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> show
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> spark
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> sparkContext
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> sql
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> staticModule
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> toString
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> toTypeConstructor
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> typedProductIterator
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> types
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> universe
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> x1
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> x2
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> x3
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> x4
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> ||
+product stamps:
+32 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$1.class -> lastModified(1511800224403)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$10.class -> lastModified(1511800224408)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$11.class -> lastModified(1511800224414)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$2.class -> lastModified(1511800224419)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$4.class -> lastModified(1511800224429)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1511800224438)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3$$anonfun$apply$2.class -> lastModified(1511800224434)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$3.class -> lastModified(1511800224425)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$6.class -> lastModified(1511800224442)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$7.class -> lastModified(1511800224447)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$8.class -> lastModified(1511800224450)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$9.class -> lastModified(1511800224454)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$1.class -> lastModified(1511800224458)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$2.class -> lastModified(1511800224461)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$3.class -> lastModified(1511800224464)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4$$anonfun$5.class -> lastModified(1511800224473)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4$$anonfun$apply$4.class -> lastModified(1511800224479)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$fit$4.class -> lastModified(1511800224469)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$toRDD$1$$anonfun$apply$1.class -> lastModified(1511800224486)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$anonfun$toRDD$1.class -> lastModified(1511800224483)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$$typecreator1$1.class -> lastModified(1511800224490)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$.class -> lastModified(1511800224378)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyComputeRecord$.class -> lastModified(1511800224494)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyComputeRecord.class -> lastModified(1511800224501)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyDataset$.class -> lastModified(1511800224513)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable$ContingencyDataset.class -> lastModified(1511800224508)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\com\manualrg\mlutils\ContingencyTable.class -> lastModified(1511800224362)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$$typecreator1$1.class -> lastModified(1511800224328)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$.class -> lastModified(1511800224126)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$Record$.class -> lastModified(1511800224338)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample$Record.class -> lastModified(1511800224353)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\target\scala-2.11\classes\ContingencyExample.class -> lastModified(1511800224069)
+source stamps:
+2 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> hash(7cf1c169b9d7cd76a6b655828947ecdcb0344b52)
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> hash(ab69274c81ab74fb6d81c78ac67afef906e77c7d)
+binary stamps:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_144\lib\rt.jar -> lastModified(1505804121261)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar -> lastModified(1493167686000)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> lastModified(1493167440000)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar -> lastModified(1493167860000)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar -> lastModified(1452974058000)
+class names:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_144\lib\rt.jar -> java.lang.Object
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar -> org.apache.spark.sql.Row
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> org.apache.spark.rdd.RDD
+C:\Users\manuelalberto.romero\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar -> org.apache.spark.sql.SparkSession$
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Product
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+C:\Users\manuelalberto.romero\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar -> breeze.linalg.support.CanSlice2
+internal apis:
+2 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbPy0zgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAvc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+p4U+XQABm5vdGlmeXNxAH4ADILAdnZ0AAd1bmFwcGx5c3EAfgAMD2c0jnQAB2N1cnJpZWRzcQB+AAyGOs2edAAFdG9SRERzcQB+AAzaBAF7dAASY29tcHV0ZUNvbnRpbmdlbmN5c3EAfgAM8YyG7XQABHdhaXRzcQB+AAxALgm1dAAFTjFDb2xzcQB+AAxcz2VldAAOY29weSRkZWZhdWx0JDJzcQB+AAyCIgQ6dAANJGFzSW5zdGFuY2VPZnNxAH4ADL28Grt0AAxwcm9kdWN0QXJpdHlzcQB+AAxz//CndAAGZXF1YWxzc3EAfgAMBnhE73QAEkNvbnRpbmdlbmN5RGF0YXNldHNxAH4ADGSTi9Z0AANmaXRzcQB+AAwEBEzVdAAMYXNJbnN0YW5jZU9mc3EAfgAMwXY7CXQADHN5bmNocm9uaXplZHNxAH4ADNM/C0l0AAdjb2xfaWR4c3EAfgAMnoi1IHQAGENvbnRpbmdlbmN5Q29tcHV0ZVJlY29yZHNxAH4ADJRvy+d0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMgeK0nQABnR1cGxlZHNxAH4ADJWZqpR0AAhjYW5FcXVhbHNxAH4ADC6FW610AA5jb3B5JGRlZmF1bHQkNHNxAH4ADDDs6kp0AA1wcm9kdWN0UHJlZml4c3EAfgAM5T4llnQACW5vdGlmeUFsbHNxAH4ADIuEPPN0AAVOMENvbHNxAH4ADG3UAhx0AAxpc0luc3RhbmNlT2ZzcQB+AAwSHLuKdAAGPGluaXQ+c3EAfgAM0eAIknQABWFwcGx5c3EAfgAMnAkwY3QABXNwYXJrc3EAfgAMubihiHQAAj09c3EAfgAMs4Hh1nQABWNsb25lc3EAfgAM2POIRnQABiRpbml0JHNxAH4ADHxGNhd0ABRnZXRDb250aW5nZW5jeVJlcG9ydHNxAH4ADHvvafp0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJ4MUal0AARjb3B5c3EAfgAMWgH+cXQACHRvU3RyaW5nc3EAfgAM7PB4UXQAAiE9c3EAfgAMb6YV6HQACGdldENsYXNzc3EAfgAMnpT2ZHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMB4E/s3QAC2xldmVsX3ZhbHVlc3EAfgAMiTRSz3QAAm5lc3EAfgAMRF8CJXQAAmVxc3EAfgAMdZnbl3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLy4uUp0AAIjI3NxAH4ADPFi4r10AAhmaW5hbGl6ZXNxAH4ADEM4vvp0AA5wcm9kdWN0RWxlbWVudHNxAH4ADChkR6l0AAhoYXNoQ29kZXNxAH4ADGvY4S50ABBDb250aW5nZW5jeVRhYmxlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJWNvbS5tYW51YWxyZy5tbHV0aWxzLkNvbnRpbmdlbmN5VGFibGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCSc3EAfgCNdXEAfgBwAAAAAHNxAH4AjXVxAH4AcAAAAABzcQB+AI11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKtzcQB+AJ50AANBbnlzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAFc2NhbGFxAH4AsXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFGNvbS5tYW51YWxyZy5tbHV0aWxzc3EAfgC7dAADY29tc3EAfgC7dAAMY29tLm1hbnVhbHJnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFf/lCcp3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF1DOlxVc2Vyc1xtYW51ZWxhbGJlcnRvLnJvbWVyb1xJZGVhUHJvamVjdHNcTUxVdGlsc19Db250aW5nZW5jeVRhYmxlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR88cFpudfNdqa2VYKJR+zcsDRLUg==
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1Hw0pQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAwc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZ8awS3QABm5vdGlmeXNxAH4ADMbYuA50AAd1bmFwcGx5c3EAfgAM2FIZiXQAB2N1cnJpZWRzcQB+AAxZM/ZddAAEd2FpdHNxAH4ADALu2/h0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADEdRXVF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9OK1bXQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM9W5efnQADHByb2R1Y3RBcml0eXNxAH4ADNOneUN0AAZlcXVhbHNzcQB+AAxH0qaBdAACeDNzcQB+AAwoevxqdAAMYXNJbnN0YW5jZU9mc3EAfgAMT0Oq83QADHN5bmNocm9uaXplZHNxAH4ADFUqmzx0AAVsYWJlbHNxAH4ADEdfoWd0AAJzY3NxAH4ADLmftDx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMX77RrHQABnR1cGxlZHNxAH4ADP+wNqN0AAhjYW5FcXVhbHNxAH4ADKMN+lN0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADGRH6qN0AARtYWluc3EAfgAM9/HtvHQAAngyc3EAfgAMtVvC63QADXByb2R1Y3RQcmVmaXhzcQB+AAygrF7sdAAJbm90aWZ5QWxsc3EAfgAMutjWw3QADGlzSW5zdGFuY2VPZnNxAH4ADJbF4yR0AAY8aW5pdD5zcQB+AAwKpiKgdAACaWRzcQB+AAwfCQu7dAAFYXBwbHlzcQB+AAxtp3ZhdAAFc3BhcmtzcQB+AAxvUvbEdAACPT1zcQB+AAzcnbQcdAAGUmVjb3Jkc3EAfgAMWC4043QABWNsb25lc3EAfgAMXPf7b3QABiRpbml0JHNxAH4ADJGcZRt0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADA4PwKx0AARjb3B5c3EAfgAM0M4n+HQAAngxc3EAfgAM/QGSkHQACHRvU3RyaW5nc3EAfgAMc8LW0XQAAiE9c3EAfgAM+TXD5nQACGdldENsYXNzc3EAfgAMF3MCqnQAEkNvbnRpbmdlbmN5RXhhbXBsZXNxAH4ADNk875N0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADO1bOzl0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADJlItmB0AAJuZXNxAH4ADK9bcUJ0AAJlcXNxAH4ADKs0Jnh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxpNzDNdAACeDRzcQB+AAwBTtkFdAACIyNzcQB+AAxXaSwrdAAIZmluYWxpemVzcQB+AAzHSM9RdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAylxgt0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCTc3EAfgCOdXEAfgByAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgB4cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgAzdXEAfgCGAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCSc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCudXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Am3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AiXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AolsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AknNxAH4AoXQABUFycmF5cQB+AKd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AoXQABlN0cmluZ3NxAH4ApXNxAH4AqHVxAH4AqwAAAANzcQB+AK10AARqYXZhc3EAfgCtdAAEbGFuZ3EAfgCyc3EAfgCOdXEAfgByAAAAAHNxAH4AjnVxAH4AxgAAAAJzcQB+AKF0AAZPYmplY3RxAH4AynNxAH4AoXQAA0FueXEAfgCndXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV/+UJyndXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXUM6XFVzZXJzXG1hbnVlbGFsYmVydG8ucm9tZXJvXElkZWFQcm9qZWN0c1xNTFV0aWxzX0NvbnRpbmdlbmN5VGFibGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKtpJ0yBq3T7bYHHisZ6/vkG53x9
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\com\manualrg\mlutils\ContingencyTable.scala -> 
+AAAAAAAAAAA=
+C:\Users\manuelalberto.romero\IdeaProjects\MLUtils_ContingencyTable\src\main\scala\ContingencyExample.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/5QnKd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXUM6XFVzZXJzXG1hbnVlbGFsYmVydG8ucm9tZXJvXElkZWFQcm9qZWN0c1xNTFV0aWxzX0NvbnRpbmdlbmN5VGFibGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
